@@ -11,7 +11,8 @@ body {
   z-index: 10;
 }
 .navbar {
-  background-image: linear-gradient(to right, #03bafc, #027199);
+  background: rgb(9,0,167);
+  background: linear-gradient(90deg, rgba(9,0,167,1) 35%, rgba(122,122,255,1) 100%);
   padding: 0 !important;
 }
 .navbar-brand img {
